@@ -107,7 +107,7 @@ namespace asimov
                         }
 
                         // Lier le DataTable au DataGridView direct avec la classe
-                        // dataGridViewScolarite.DataSource = listeScolarite;
+                         dataGridViewScolarite.DataSource = dt;
 
                     }
                     else
